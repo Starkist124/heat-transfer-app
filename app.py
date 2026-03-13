@@ -19,7 +19,7 @@ TIME_CONV = {"seconds": 1.0, "minutes": 60.0, "hours": 3600.0}
 # --- App Setup ---
 st.set_page_config(page_title="Heat Transfer Pro", page_icon="🔥", layout="centered")
 st.title("Flow Rate Calculator")
-st.write("Mix and match your input units! The app handles all conversions behind the scenes.")
+st.write("Enough is enough. I'm tired of doing these conversions every meeting on Fridays.")
 
 # --- Section 1: Fluid & State Variables ---
 st.header("1. Fluid Properties")
