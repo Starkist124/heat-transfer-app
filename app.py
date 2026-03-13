@@ -17,7 +17,7 @@ STATIC_VOL_CONV = {"gallons": 0.00378541, "L": 0.001, "mL": 0.000001, "m³": 1.0
 TIME_CONV = {"seconds": 1.0, "minutes": 60.0, "hours": 3600.0}
 
 # --- App Setup ---
-st.set_page_config(page_title="Heat Transfer Pro", page_icon="🔥", layout="centered")
+st.set_page_config(page_title="Flowrate Pro", page_icon="🔥", layout="centered")
 st.title("Flow Rate Calculator")
 st.write("Enough is enough. I'm tired of doing these conversions every meeting on Fridays.")
 
